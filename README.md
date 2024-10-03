@@ -17,9 +17,9 @@ I also have a background in **software engineering**, where I've contributed to 
 
 ### Remote Customer Support Specialist  
 **Dec 2023 – Present**  
-- Made outbound calls to over 150+ leads and existing customers, resulting in a **30% increase in lead conversion**.  
-- Collaborated with internal teams to resolve customer issues, reducing resolution times by **20%**.  
-- Created email marketing tools and tracked client responses to optimize follow-up strategies.
+- Managed over 150+ customer inquiries through a chatbot system, providing automated responses and seamless escalation to human support when necessary, resulting in a 30% increase in customer engagement and satisfaction..  
+- Integrated internal tools with the chatbot to streamline issue resolution, reducing response times by 20% and improving overall customer support efficiency.  
+- Created email marketing tools to send promotional materials to potential customers, tracking client responses and generating reports to optimize follow-up strategies..
 
 ### Software Engineer, Innorix  
 **Jan 2022 – Nov 2023**  
