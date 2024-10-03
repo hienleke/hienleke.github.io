@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a motivated and experienced **Remote Customer Support Specialist** with over **2.5 years** of experience in delivering exceptional customer service, resolving technical issues, and guiding customers through product navigation. I excel at building strong relationships with both new leads and existing customers, and I'm skilled in supporting the sales process with CRM tools and email marketing strategies.
+I'm a motivated and experienced **Remote Customer Support Specialist** with over **1 year** of experience in delivering exceptional customer service, resolving technical issues, and guiding customers through product navigation. I excel at building strong relationships with both new leads and existing customers, and I'm skilled in supporting the sales process with CRM tools and email marketing strategies.
 
 I also have a background in **software engineering**, where I've contributed to internal system improvements, enhanced communication flows, and optimized backend processes to drive efficiency.
 
