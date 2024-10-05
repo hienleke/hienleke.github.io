@@ -49,3 +49,8 @@ Industrial University of Ho Chi Minh City (Sep 2017 – Jul 2022)
 - **Technical Skills:** Data Entry, Order Processing, Product Knowledge, Typing (Experienced), Online Ordering, Coding  
 - **Administrative Skills:** Scheduling meetings, organizing tasks, managing communication  
 - **Customer Service Skills:** Providing support, resolving queries, maintaining customer relationships, creating and scheduling posts, monitoring engagement, responding to customers  
+- **Email Marketing Skills:** Developing campaigns, tracking responses, generating reports  
+- **Tools & Software:** Notion, MySQL, MongoDB, Postgres  
+- **Communication:** Strong written and verbal communication skills  
+- **Organizational Skills:** Excellent organizational and multitasking abilities  
+- **Office Proficiency:** Proficient in Microsoft Office Suite and Google Workspace 
