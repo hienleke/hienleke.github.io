@@ -13,11 +13,15 @@ I'm a motivated **Remote Customer Support Specialist** with over **1 year** of e
 
 ## 💼 Work Experience
 
-### Remote Customer Support Specialist  
+### Remote Customer Support Specialist, Clay  
 **Dec 2023 – Present**  
-- Managed over 150+ customer inquiries through a chatbot system, resulting in a **30%** increase in customer engagement and satisfaction.  
-- Integrated internal tools with the chatbot to streamline issue resolution, reducing response times by **20%**.  
-- Developed and implemented email marketing strategies, tracking client responses to optimize follow-up efforts.  
+- Responded to customer inquiries and troubleshot technical issues via phone, email, and chat, ensuring prompt and effective assistance.
+-	Provided detailed information about products and services, creating clear, helpful content that engaged users based on their feedback.
+-	Diagnosed and resolved technical issues promptly, tracking customer interactions and solutions to improve support quality.
+-	Managed over 150+ customer inquiries through a chatbot system, which improved customer engagement and satisfaction by 30%.
+-	Integrated internal tools with the chatbot to streamline issue resolution, reducing response times by 20%.
+-	Maintained a positive and professional attitude in all interactions, enhancing customer trust and support experience.
+
 
 ### Software Engineer, Innorix  
 **Jan 2022 – Nov 2023**  
